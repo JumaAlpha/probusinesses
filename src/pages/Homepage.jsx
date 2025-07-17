@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react';
-import '../assets/styles/Homepage.css';
+import '../assets/styles/homepage.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Navbar from '../assets/components/navbar';
 import heroImage from '../assets/images/hero-image.jpg';
